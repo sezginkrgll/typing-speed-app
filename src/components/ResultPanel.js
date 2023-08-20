@@ -52,7 +52,7 @@ function ResultPanel() {
             p={2}
             color={"green.500"}
           >
-            {Math.round(cKeystrokes / 5)} DKS
+            {Math.round(cKeystrokes / 5)} WPM
           </Heading>
           <Flex borderBottom={"1px"} p={2}>
             <Text as={"span"} textAlign={"left"}>
