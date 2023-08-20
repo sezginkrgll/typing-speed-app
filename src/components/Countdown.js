@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 // Chakra-UI
 import { Button } from "@chakra-ui/react";
 // Redux
@@ -24,7 +24,7 @@ const Countdown = () => {
         }, 1000);
       }
     }
-  }, [timer, start]);
+  }, [timer, start, dispatch]);
 
   return (
     <Button ml={2} _hover={{ bgColor: "none" }} _active={{ bgColor: "none" }}>

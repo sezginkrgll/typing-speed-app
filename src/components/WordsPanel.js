@@ -17,7 +17,7 @@ function WordsPanel() {
 
   useEffect(() => {
     dispatch(overFlow());
-  }, [inputWords]);
+  }, [dispatch]);
 
   const boxBg = (arrLength, i) => {
     if (!inputCheck) {

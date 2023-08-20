@@ -99,7 +99,7 @@ export const typingSpeedSlice = createSlice({
         let pixel = 0;
         // Burada ilk satırda kaç tane kelime görüntüleneceğini buluyoruz
         while (pixel < 580) {
-          if (state.language == "tr") {
+          if (state.language === "tr") {
             pixel += Number(state.words[i].turkish.length * 8.8) + 16;
           } else {
             pixel += Number(state.words[i].english.length * 8.8) + 16;
