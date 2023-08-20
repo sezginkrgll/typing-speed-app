@@ -82,7 +82,7 @@ function ResultPanel() {
           </Flex>
           <Flex borderBottom={"1px"} p={2}>
             <Text as={"span"} textAlign={"left"}>
-              Correct Word
+              Correct Words
             </Text>
             <Spacer as="span" />
             <Text
@@ -96,7 +96,7 @@ function ResultPanel() {
           </Flex>
           <Flex borderBottom={"1px"} p={2}>
             <Text as={"span"} textAlign={"left"}>
-              Wrong Word
+              Wrong Words
             </Text>
             <Spacer as="span" />
             <Text
