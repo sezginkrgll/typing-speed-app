@@ -1,0 +1,4839 @@
+{
+  "words": [
+    {
+      "rank": 1,
+      "turkish": "olarak",
+      "english": "as"
+    },
+    {
+      "rank": 2,
+      "turkish": "ben",
+      "english": "I"
+    },
+    {
+      "rank": 3,
+      "turkish": "onun",
+      "english": "his"
+    },
+    {
+      "rank": 4,
+      "turkish": "bu",
+      "english": "that"
+    },
+    {
+      "rank": 5,
+      "turkish": "diye",
+      "english": "he"
+    },
+    {
+      "rank": 6,
+      "turkish": "oldu",
+      "english": "was"
+    },
+    {
+      "rank": 7,
+      "turkish": "için",
+      "english": "for"
+    },
+    {
+      "rank": 8,
+      "turkish": "üzerinde",
+      "english": "on"
+    },
+    {
+      "rank": 9,
+      "turkish": "vardır",
+      "english": "are"
+    },
+    {
+      "rank": 10,
+      "turkish": "ile",
+      "english": "with"
+    },
+    {
+      "rank": 11,
+      "turkish": "onlar",
+      "english": "they"
+    },
+    {
+      "rank": 12,
+      "turkish": "olmak",
+      "english": "be"
+    },
+    {
+      "rank": 13,
+      "turkish": "at",
+      "english": "at"
+    },
+    {
+      "rank": 14,
+      "turkish": "bir",
+      "english": "one"
+    },
+    {
+      "rank": 15,
+      "turkish": "var",
+      "english": "have"
+    },
+    {
+      "rank": 16,
+      "turkish": "Bu",
+      "english": "this"
+    },
+    {
+      "rank": 17,
+      "turkish": "dan",
+      "english": "from"
+    },
+    {
+      "rank": 18,
+      "turkish": "tarafından",
+      "english": "by"
+    },
+    {
+      "rank": 19,
+      "turkish": "sıcak",
+      "english": "hot"
+    },
+    {
+      "rank": 20,
+      "turkish": "kelime",
+      "english": "word"
+    },
+    {
+      "rank": 21,
+      "turkish": "ancak",
+      "english": "but"
+    },
+    {
+      "rank": 22,
+      "turkish": "ne",
+      "english": "what"
+    },
+    {
+      "rank": 23,
+      "turkish": "bazı",
+      "english": "some"
+    },
+    {
+      "rank": 24,
+      "turkish": "olduğunu",
+      "english": "is"
+    },
+    {
+      "rank": 25,
+      "turkish": "o",
+      "english": "it"
+    },
+    {
+      "rank": 26,
+      "turkish": "sen",
+      "english": "you"
+    },
+    {
+      "rank": 27,
+      "turkish": "veya",
+      "english": "or"
+    },
+    {
+      "rank": 28,
+      "turkish": "vardı",
+      "english": "had"
+    },
+    {
+      "rank": 30,
+      "turkish": "arasında",
+      "english": "of"
+    },
+    {
+      "rank": 31,
+      "turkish": "karşı",
+      "english": "to"
+    },
+    {
+      "rank": 32,
+      "turkish": "ve",
+      "english": "and"
+    },
+    {
+      "rank": 33,
+      "turkish": "bir",
+      "english": "a"
+    },
+    {
+      "rank": 34,
+      "turkish": "içinde",
+      "english": "in"
+    },
+    {
+      "rank": 35,
+      "turkish": "biz",
+      "english": "we"
+    },
+    {
+      "rank": 36,
+      "turkish": "can",
+      "english": "can"
+    },
+    {
+      "rank": 37,
+      "turkish": "üzerinden",
+      "english": "out"
+    },
+    {
+      "rank": 38,
+      "turkish": "diğer",
+      "english": "other"
+    },
+    {
+      "rank": 39,
+      "turkish": "vardı",
+      "english": "were"
+    },
+    {
+      "rank": 40,
+      "turkish": "hangi",
+      "english": "which"
+    },
+    {
+      "rank": 42,
+      "turkish": "onların",
+      "english": "their"
+    },
+    {
+      "rank": 43,
+      "turkish": "zaman",
+      "english": "time"
+    },
+    {
+      "rank": 44,
+      "turkish": "eğer",
+      "english": "if"
+    },
+    {
+      "rank": 45,
+      "turkish": "olacak",
+      "english": "will"
+    },
+    {
+      "rank": 46,
+      "turkish": "nasıl",
+      "english": "how"
+    },
+    {
+      "rank": 47,
+      "turkish": "dedi",
+      "english": "said"
+    },
+    {
+      "rank": 48,
+      "turkish": "bir",
+      "english": "an"
+    },
+    {
+      "rank": 49,
+      "turkish": "her",
+      "english": "each"
+    },
+    {
+      "rank": 50,
+      "turkish": "söyle",
+      "english": "tell"
+    },
+    {
+      "rank": 51,
+      "turkish": "yok",
+      "english": "does"
+    },
+    {
+      "rank": 52,
+      "turkish": "set",
+      "english": "set"
+    },
+    {
+      "rank": 53,
+      "turkish": "üç",
+      "english": "three"
+    },
+    {
+      "rank": 54,
+      "turkish": "istiyorum",
+      "english": "want"
+    },
+    {
+      "rank": 55,
+      "turkish": "hava",
+      "english": "air"
+    },
+    {
+      "rank": 56,
+      "turkish": "iyi",
+      "english": "well"
+    },
+    {
+      "rank": 57,
+      "turkish": "ayrıca",
+      "english": "also"
+    },
+    {
+      "rank": 58,
+      "turkish": "oynamak",
+      "english": "play"
+    },
+    {
+      "rank": 59,
+      "turkish": "küçük",
+      "english": "small"
+    },
+    {
+      "rank": 60,
+      "turkish": "son",
+      "english": "end"
+    },
+    {
+      "rank": 61,
+      "turkish": "koymak",
+      "english": "put"
+    },
+    {
+      "rank": 62,
+      "turkish": "ev",
+      "english": "home"
+    },
+    {
+      "rank": 63,
+      "turkish": "okumak",
+      "english": "read"
+    },
+    {
+      "rank": 64,
+      "turkish": "el",
+      "english": "hand"
+    },
+    {
+      "rank": 65,
+      "turkish": "liman",
+      "english": "port"
+    },
+    {
+      "rank": 66,
+      "turkish": "büyük",
+      "english": "large"
+    },
+    {
+      "rank": 67,
+      "turkish": "büyü",
+      "english": "spell"
+    },
+    {
+      "rank": 68,
+      "turkish": "ekleyin",
+      "english": "add"
+    },
+    {
+      "rank": 69,
+      "turkish": "hatta",
+      "english": "even"
+    },
+    {
+      "rank": 70,
+      "turkish": "arazi",
+      "english": "land"
+    },
+    {
+      "rank": 71,
+      "turkish": "burada",
+      "english": "here"
+    },
+    {
+      "rank": 72,
+      "turkish": "gerekir",
+      "english": "must"
+    },
+    {
+      "rank": 73,
+      "turkish": "büyük",
+      "english": "big"
+    },
+    {
+      "rank": 74,
+      "turkish": "yüksek",
+      "english": "high"
+    },
+    {
+      "rank": 75,
+      "turkish": "böyle",
+      "english": "such"
+    },
+    {
+      "rank": 76,
+      "turkish": "izleyin",
+      "english": "follow"
+    },
+    {
+      "rank": 77,
+      "turkish": "hareket",
+      "english": "act"
+    },
+    {
+      "rank": 78,
+      "turkish": "neden",
+      "english": "why"
+    },
+    {
+      "rank": 79,
+      "turkish": "sormak",
+      "english": "ask"
+    },
+    {
+      "rank": 80,
+      "turkish": "erkekler",
+      "english": "men"
+    },
+    {
+      "rank": 81,
+      "turkish": "değişim",
+      "english": "change"
+    },
+    {
+      "rank": 82,
+      "turkish": "gitti",
+      "english": "went"
+    },
+    {
+      "rank": 83,
+      "turkish": "ışık",
+      "english": "light"
+    },
+    {
+      "rank": 84,
+      "turkish": "tür",
+      "english": "kind"
+    },
+    {
+      "rank": 85,
+      "turkish": "kapalı",
+      "english": "off"
+    },
+    {
+      "rank": 86,
+      "turkish": "gerek",
+      "english": "need"
+    },
+    {
+      "rank": 87,
+      "turkish": "ev",
+      "english": "house"
+    },
+    {
+      "rank": 88,
+      "turkish": "resim",
+      "english": "picture"
+    },
+    {
+      "rank": 89,
+      "turkish": "denemek",
+      "english": "try"
+    },
+    {
+      "rank": 90,
+      "turkish": "bizi",
+      "english": "us"
+    },
+    {
+      "rank": 91,
+      "turkish": "tekrar",
+      "english": "again"
+    },
+    {
+      "rank": 92,
+      "turkish": "hayvan",
+      "english": "animal"
+    },
+    {
+      "rank": 93,
+      "turkish": "nokta",
+      "english": "point"
+    },
+    {
+      "rank": 94,
+      "turkish": "anne",
+      "english": "mother"
+    },
+    {
+      "rank": 95,
+      "turkish": "dünya",
+      "english": "world"
+    },
+    {
+      "rank": 96,
+      "turkish": "yakın",
+      "english": "near"
+    },
+    {
+      "rank": 97,
+      "turkish": "inşa",
+      "english": "build"
+    },
+    {
+      "rank": 98,
+      "turkish": "öz",
+      "english": "self"
+    },
+    {
+      "rank": 99,
+      "turkish": "toprak",
+      "english": "earth"
+    },
+    {
+      "rank": 100,
+      "turkish": "baba",
+      "english": "father"
+    },
+    {
+      "rank": 102,
+      "turkish": "yeni",
+      "english": "new"
+    },
+    {
+      "rank": 103,
+      "turkish": "iş",
+      "english": "work"
+    },
+    {
+      "rank": 104,
+      "turkish": "bölüm",
+      "english": "part"
+    },
+    {
+      "rank": 105,
+      "turkish": "almak",
+      "english": "take"
+    },
+    {
+      "rank": 106,
+      "turkish": "olsun",
+      "english": "get"
+    },
+    {
+      "rank": 107,
+      "turkish": "yer",
+      "english": "place"
+    },
+    {
+      "rank": 108,
+      "turkish": "yapılan",
+      "english": "made"
+    },
+    {
+      "rank": 109,
+      "turkish": "canlı",
+      "english": "live"
+    },
+    {
+      "rank": 110,
+      "turkish": "nerede",
+      "english": "where"
+    },
+    {
+      "rank": 111,
+      "turkish": "sonra",
+      "english": "after"
+    },
+    {
+      "rank": 112,
+      "turkish": "geri",
+      "english": "back"
+    },
+    {
+      "rank": 113,
+      "turkish": "küçük",
+      "english": "little"
+    },
+    {
+      "rank": 114,
+      "turkish": "sadece",
+      "english": "only"
+    },
+    {
+      "rank": 115,
+      "turkish": "yuvarlak",
+      "english": "round"
+    },
+    {
+      "rank": 116,
+      "turkish": "adam",
+      "english": "man"
+    },
+    {
+      "rank": 117,
+      "turkish": "yıl",
+      "english": "year"
+    },
+    {
+      "rank": 118,
+      "turkish": "geldi",
+      "english": "came"
+    },
+    {
+      "rank": 119,
+      "turkish": "gösterisi",
+      "english": "show"
+    },
+    {
+      "rank": 120,
+      "turkish": "her",
+      "english": "every"
+    },
+    {
+      "rank": 122,
+      "turkish": "bana",
+      "english": "me"
+    },
+    {
+      "rank": 123,
+      "turkish": "vermek",
+      "english": "give"
+    },
+    {
+      "rank": 124,
+      "turkish": "bizim",
+      "english": "our"
+    },
+    {
+      "rank": 125,
+      "turkish": "altında",
+      "english": "under"
+    },
+    {
+      "rank": 126,
+      "turkish": "adı",
+      "english": "name"
+    },
+    {
+      "rank": 127,
+      "turkish": "çok",
+      "english": "very"
+    },
+    {
+      "rank": 128,
+      "turkish": "ile",
+      "english": "through"
+    },
+    {
+      "rank": 129,
+      "turkish": "sadece",
+      "english": "just"
+    },
+    {
+      "rank": 130,
+      "turkish": "formu",
+      "english": "form"
+    },
+    {
+      "rank": 131,
+      "turkish": "cümle",
+      "english": "sentence"
+    },
+    {
+      "rank": 132,
+      "turkish": "büyük",
+      "english": "great"
+    },
+    {
+      "rank": 133,
+      "turkish": "düşünmek",
+      "english": "think"
+    },
+    {
+      "rank": 134,
+      "turkish": "demek",
+      "english": "say"
+    },
+    {
+      "rank": 135,
+      "turkish": "yardım",
+      "english": "help"
+    },
+    {
+      "rank": 136,
+      "turkish": "düşük",
+      "english": "low"
+    },
+    {
+      "rank": 137,
+      "turkish": "hat",
+      "english": "line"
+    },
+    {
+      "rank": 138,
+      "turkish": "farklı",
+      "english": "differ"
+    },
+    {
+      "rank": 139,
+      "turkish": "dönüş",
+      "english": "turn"
+    },
+    {
+      "rank": 140,
+      "turkish": "neden",
+      "english": "cause"
+    },
+    {
+      "rank": 141,
+      "turkish": "çok",
+      "english": "much"
+    },
+    {
+      "rank": 142,
+      "turkish": "Yani",
+      "english": "mean"
+    },
+    {
+      "rank": 143,
+      "turkish": "önce",
+      "english": "before"
+    },
+    {
+      "rank": 144,
+      "turkish": "hareket",
+      "english": "move"
+    },
+    {
+      "rank": 145,
+      "turkish": "sağ",
+      "english": "right"
+    },
+    {
+      "rank": 146,
+      "turkish": "çocuk",
+      "english": "boy"
+    },
+    {
+      "rank": 147,
+      "turkish": "eski",
+      "english": "old"
+    },
+    {
+      "rank": 148,
+      "turkish": "çok",
+      "english": "too"
+    },
+    {
+      "rank": 149,
+      "turkish": "aynı",
+      "english": "same"
+    },
+    {
+      "rank": 150,
+      "turkish": "diye",
+      "english": "she"
+    },
+    {
+      "rank": 151,
+      "turkish": "tüm",
+      "english": "all"
+    },
+    {
+      "rank": 152,
+      "turkish": "orada",
+      "english": "there"
+    },
+    {
+      "rank": 153,
+      "turkish": "zaman",
+      "english": "when"
+    },
+    {
+      "rank": 154,
+      "turkish": "yukarı",
+      "english": "up"
+    },
+    {
+      "rank": 155,
+      "turkish": "Kullanım",
+      "english": "use"
+    },
+    {
+      "rank": 156,
+      "turkish": "senin",
+      "english": "your"
+    },
+    {
+      "rank": 157,
+      "turkish": "yol",
+      "english": "way"
+    },
+    {
+      "rank": 158,
+      "turkish": "hakkında",
+      "english": "about"
+    },
+    {
+      "rank": 159,
+      "turkish": "birçok",
+      "english": "many"
+    },
+    {
+      "rank": 161,
+      "turkish": "onları",
+      "english": "them"
+    },
+    {
+      "rank": 162,
+      "turkish": "yazmak",
+      "english": "write"
+    },
+    {
+      "rank": 164,
+      "turkish": "gibi",
+      "english": "like"
+    },
+    {
+      "rank": 166,
+      "turkish": "bu",
+      "english": "these"
+    },
+    {
+      "rank": 167,
+      "turkish": "onu",
+      "english": "her"
+    },
+    {
+      "rank": 168,
+      "turkish": "uzun",
+      "english": "long"
+    },
+    {
+      "rank": 169,
+      "turkish": "yapmak",
+      "english": "make"
+    },
+    {
+      "rank": 170,
+      "turkish": "şey",
+      "english": "thing"
+    },
+    {
+      "rank": 171,
+      "turkish": "görmek",
+      "english": "see"
+    },
+    {
+      "rank": 172,
+      "turkish": "onu",
+      "english": "him"
+    },
+    {
+      "rank": 173,
+      "turkish": "iki",
+      "english": "two"
+    },
+    {
+      "rank": 174,
+      "turkish": "var",
+      "english": "has"
+    },
+    {
+      "rank": 175,
+      "turkish": "bak",
+      "english": "look"
+    },
+    {
+      "rank": 176,
+      "turkish": "fazla",
+      "english": "more"
+    },
+    {
+      "rank": 177,
+      "turkish": "gün",
+      "english": "day"
+    },
+    {
+      "rank": 178,
+      "turkish": "olabilir",
+      "english": "could"
+    },
+    {
+      "rank": 179,
+      "turkish": "gitmek",
+      "english": "go"
+    },
+    {
+      "rank": 180,
+      "turkish": "gel",
+      "english": "come"
+    },
+    {
+      "rank": 181,
+      "turkish": "yaptım",
+      "english": "did"
+    },
+    {
+      "rank": 182,
+      "turkish": "numarası",
+      "english": "number"
+    },
+    {
+      "rank": 183,
+      "turkish": "ses",
+      "english": "sound"
+    },
+    {
+      "rank": 184,
+      "turkish": "hayır",
+      "english": "no"
+    },
+    {
+      "rank": 185,
+      "turkish": "en",
+      "english": "most"
+    },
+    {
+      "rank": 186,
+      "turkish": "insanlar",
+      "english": "people"
+    },
+    {
+      "rank": 187,
+      "turkish": "benim",
+      "english": "my"
+    },
+    {
+      "rank": 188,
+      "turkish": "üzerinde",
+      "english": "over"
+    },
+    {
+      "rank": 189,
+      "turkish": "bilmek",
+      "english": "know"
+    },
+    {
+      "rank": 190,
+      "turkish": "su",
+      "english": "water"
+    },
+    {
+      "rank": 191,
+      "turkish": "daha",
+      "english": "than"
+    },
+    {
+      "rank": 192,
+      "turkish": "çağrı",
+      "english": "call"
+    },
+    {
+      "rank": 193,
+      "turkish": "ilk",
+      "english": "first"
+    },
+    {
+      "rank": 194,
+      "turkish": "kim",
+      "english": "who"
+    },
+    {
+      "rank": 196,
+      "turkish": "aşağı",
+      "english": "down"
+    },
+    {
+      "rank": 197,
+      "turkish": "yan",
+      "english": "side"
+    },
+    {
+      "rank": 198,
+      "turkish": "oldu",
+      "english": "been"
+    },
+    {
+      "rank": 199,
+      "turkish": "Şimdi",
+      "english": "now"
+    },
+    {
+      "rank": 200,
+      "turkish": "bulmak",
+      "english": "find"
+    },
+    {
+      "rank": 201,
+      "turkish": "kafa",
+      "english": "head"
+    },
+    {
+      "rank": 202,
+      "turkish": "standı",
+      "english": "stand"
+    },
+    {
+      "rank": 203,
+      "turkish": "kendi",
+      "english": "own"
+    },
+    {
+      "rank": 204,
+      "turkish": "sayfa",
+      "english": "page"
+    },
+    {
+      "rank": 205,
+      "turkish": "gerekir",
+      "english": "should"
+    },
+    {
+      "rank": 206,
+      "turkish": "ülke",
+      "english": "country"
+    },
+    {
+      "rank": 207,
+      "turkish": "bulundu",
+      "english": "found"
+    },
+    {
+      "rank": 208,
+      "turkish": "cevap",
+      "english": "answer"
+    },
+    {
+      "rank": 209,
+      "turkish": "okul",
+      "english": "school"
+    },
+    {
+      "rank": 210,
+      "turkish": "büyümek",
+      "english": "grow"
+    },
+    {
+      "rank": 211,
+      "turkish": "çalışma",
+      "english": "study"
+    },
+    {
+      "rank": 212,
+      "turkish": "hala",
+      "english": "still"
+    },
+    {
+      "rank": 213,
+      "turkish": "öğrenmek",
+      "english": "learn"
+    },
+    {
+      "rank": 214,
+      "turkish": "bitki",
+      "english": "plant"
+    },
+    {
+      "rank": 215,
+      "turkish": "kapak",
+      "english": "cover"
+    },
+    {
+      "rank": 216,
+      "turkish": "gıda",
+      "english": "food"
+    },
+    {
+      "rank": 217,
+      "turkish": "güneş",
+      "english": "sun"
+    },
+    {
+      "rank": 218,
+      "turkish": "dört",
+      "english": "four"
+    },
+    {
+      "rank": 219,
+      "turkish": "arasında",
+      "english": "between"
+    },
+    {
+      "rank": 220,
+      "turkish": "devlet",
+      "english": "state"
+    },
+    {
+      "rank": 221,
+      "turkish": "tutmak",
+      "english": "keep"
+    },
+    {
+      "rank": 222,
+      "turkish": "göz",
+      "english": "eye"
+    },
+    {
+      "rank": 223,
+      "turkish": "asla",
+      "english": "never"
+    },
+    {
+      "rank": 224,
+      "turkish": "son",
+      "english": "last"
+    },
+    {
+      "rank": 226,
+      "turkish": "düşünce",
+      "english": "thought"
+    },
+    {
+      "rank": 227,
+      "turkish": "Şehir",
+      "english": "city"
+    },
+    {
+      "rank": 228,
+      "turkish": "ağaç",
+      "english": "tree"
+    },
+    {
+      "rank": 229,
+      "turkish": "çapraz",
+      "english": "cross"
+    },
+    {
+      "rank": 230,
+      "turkish": "çiftlik",
+      "english": "farm"
+    },
+    {
+      "rank": 231,
+      "turkish": "sert",
+      "english": "hard"
+    },
+    {
+      "rank": 232,
+      "turkish": "başlangıç",
+      "english": "start"
+    },
+    {
+      "rank": 233,
+      "turkish": "olabilir",
+      "english": "might"
+    },
+    {
+      "rank": 234,
+      "turkish": "hikaye",
+      "english": "story"
+    },
+    {
+      "rank": 235,
+      "turkish": "testere",
+      "english": "saw"
+    },
+    {
+      "rank": 236,
+      "turkish": "kadar",
+      "english": "far"
+    },
+    {
+      "rank": 237,
+      "turkish": "deniz",
+      "english": "sea"
+    },
+    {
+      "rank": 238,
+      "turkish": "çizmek",
+      "english": "draw"
+    },
+    {
+      "rank": 239,
+      "turkish": "sol",
+      "english": "left"
+    },
+    {
+      "rank": 240,
+      "turkish": "geç",
+      "english": "late"
+    },
+    {
+      "rank": 242,
+      "turkish": "yapamaz",
+      "english": "don’t"
+    },
+    {
+      "rank": 243,
+      "turkish": "süre",
+      "english": "while"
+    },
+    {
+      "rank": 244,
+      "turkish": "basın",
+      "english": "press"
+    },
+    {
+      "rank": 245,
+      "turkish": "yakın",
+      "english": "close"
+    },
+    {
+      "rank": 246,
+      "turkish": "gece",
+      "english": "night"
+    },
+    {
+      "rank": 247,
+      "turkish": "gerçek",
+      "english": "real"
+    },
+    {
+      "rank": 248,
+      "turkish": "hayat",
+      "english": "life"
+    },
+    {
+      "rank": 249,
+      "turkish": "az",
+      "english": "few"
+    },
+    {
+      "rank": 250,
+      "turkish": "kuzey",
+      "english": "north"
+    },
+    {
+      "rank": 251,
+      "turkish": "kitap",
+      "english": "book"
+    },
+    {
+      "rank": 252,
+      "turkish": "taşımak",
+      "english": "carry"
+    },
+    {
+      "rank": 253,
+      "turkish": "aldı",
+      "english": "took"
+    },
+    {
+      "rank": 254,
+      "turkish": "bilim",
+      "english": "science"
+    },
+    {
+      "rank": 255,
+      "turkish": "yemek",
+      "english": "eat"
+    },
+    {
+      "rank": 256,
+      "turkish": "oda",
+      "english": "room"
+    },
+    {
+      "rank": 257,
+      "turkish": "arkadaşı",
+      "english": "friend"
+    },
+    {
+      "rank": 258,
+      "turkish": "başladı",
+      "english": "began"
+    },
+    {
+      "rank": 259,
+      "turkish": "fikir",
+      "english": "idea"
+    },
+    {
+      "rank": 260,
+      "turkish": "balık",
+      "english": "fish"
+    },
+    {
+      "rank": 261,
+      "turkish": "dağ",
+      "english": "mountain"
+    },
+    {
+      "rank": 262,
+      "turkish": "dur",
+      "english": "stop"
+    },
+    {
+      "rank": 264,
+      "turkish": "baz",
+      "english": "base"
+    },
+    {
+      "rank": 265,
+      "turkish": "duymak",
+      "english": "hear"
+    },
+    {
+      "rank": 266,
+      "turkish": "at",
+      "english": "horse"
+    },
+    {
+      "rank": 267,
+      "turkish": "kesim",
+      "english": "cut"
+    },
+    {
+      "rank": 268,
+      "turkish": "emin",
+      "english": "sure"
+    },
+    {
+      "rank": 269,
+      "turkish": "izle",
+      "english": "watch"
+    },
+    {
+      "rank": 270,
+      "turkish": "renk",
+      "english": "color"
+    },
+    {
+      "rank": 271,
+      "turkish": "yüz",
+      "english": "face"
+    },
+    {
+      "rank": 272,
+      "turkish": "ahşap",
+      "english": "wood"
+    },
+    {
+      "rank": 273,
+      "turkish": "ana",
+      "english": "main"
+    },
+    {
+      "rank": 274,
+      "turkish": "açık",
+      "english": "open"
+    },
+    {
+      "rank": 275,
+      "turkish": "görünmek",
+      "english": "seem"
+    },
+    {
+      "rank": 276,
+      "turkish": "birlikte",
+      "english": "together"
+    },
+    {
+      "rank": 277,
+      "turkish": "sonraki",
+      "english": "next"
+    },
+    {
+      "rank": 278,
+      "turkish": "beyaz",
+      "english": "white"
+    },
+    {
+      "rank": 279,
+      "turkish": "çocuk",
+      "english": "children"
+    },
+    {
+      "rank": 280,
+      "turkish": "başla",
+      "english": "begin"
+    },
+    {
+      "rank": 281,
+      "turkish": "var",
+      "english": "got"
+    },
+    {
+      "rank": 282,
+      "turkish": "yürümek",
+      "english": "walk"
+    },
+    {
+      "rank": 283,
+      "turkish": "örnek",
+      "english": "example"
+    },
+    {
+      "rank": 284,
+      "turkish": "kolaylığı",
+      "english": "ease"
+    },
+    {
+      "rank": 285,
+      "turkish": "kağıt",
+      "english": "paper"
+    },
+    {
+      "rank": 286,
+      "turkish": "grup",
+      "english": "group"
+    },
+    {
+      "rank": 288,
+      "turkish": "müzik",
+      "english": "music"
+    },
+    {
+      "rank": 289,
+      "turkish": "bu",
+      "english": "those"
+    },
+    {
+      "rank": 291,
+      "turkish": "işareti",
+      "english": "mark"
+    },
+    {
+      "rank": 293,
+      "turkish": "mektup",
+      "english": "letter"
+    },
+    {
+      "rank": 294,
+      "turkish": "kadar",
+      "english": "until"
+    },
+    {
+      "rank": 295,
+      "turkish": "kilometre",
+      "english": "mile"
+    },
+    {
+      "rank": 296,
+      "turkish": "nehir",
+      "english": "river"
+    },
+    {
+      "rank": 297,
+      "turkish": "araba",
+      "english": "car"
+    },
+    {
+      "rank": 298,
+      "turkish": "ayaklar",
+      "english": "feet"
+    },
+    {
+      "rank": 299,
+      "turkish": "bakım",
+      "english": "care"
+    },
+    {
+      "rank": 300,
+      "turkish": "ikinci",
+      "english": "second"
+    },
+    {
+      "rank": 301,
+      "turkish": "yeterli",
+      "english": "enough"
+    },
+    {
+      "rank": 302,
+      "turkish": "düz",
+      "english": "plain"
+    },
+    {
+      "rank": 303,
+      "turkish": "kız",
+      "english": "girl"
+    },
+    {
+      "rank": 304,
+      "turkish": "olağan",
+      "english": "usual"
+    },
+    {
+      "rank": 305,
+      "turkish": "genç",
+      "english": "young"
+    },
+    {
+      "rank": 306,
+      "turkish": "hazır",
+      "english": "ready"
+    },
+    {
+      "rank": 307,
+      "turkish": "yukarıdaki",
+      "english": "above"
+    },
+    {
+      "rank": 308,
+      "turkish": "hiç",
+      "english": "ever"
+    },
+    {
+      "rank": 309,
+      "turkish": "kırmızı",
+      "english": "red"
+    },
+    {
+      "rank": 310,
+      "turkish": "listesi",
+      "english": "list"
+    },
+    {
+      "rank": 311,
+      "turkish": "olsa",
+      "english": "though"
+    },
+    {
+      "rank": 312,
+      "turkish": "hissetmek",
+      "english": "feel"
+    },
+    {
+      "rank": 313,
+      "turkish": "tartışma",
+      "english": "talk"
+    },
+    {
+      "rank": 314,
+      "turkish": "kuş",
+      "english": "bird"
+    },
+    {
+      "rank": 315,
+      "turkish": "yakında",
+      "english": "soon"
+    },
+    {
+      "rank": 316,
+      "turkish": "vücut",
+      "english": "body"
+    },
+    {
+      "rank": 317,
+      "turkish": "köpek",
+      "english": "dog"
+    },
+    {
+      "rank": 318,
+      "turkish": "aile",
+      "english": "family"
+    },
+    {
+      "rank": 319,
+      "turkish": "doğrudan",
+      "english": "direct"
+    },
+    {
+      "rank": 320,
+      "turkish": "poz",
+      "english": "pose"
+    },
+    {
+      "rank": 321,
+      "turkish": "bırakın",
+      "english": "leave"
+    },
+    {
+      "rank": 322,
+      "turkish": "şarkı",
+      "english": "song"
+    },
+    {
+      "rank": 323,
+      "turkish": "ölçmek",
+      "english": "measure"
+    },
+    {
+      "rank": 324,
+      "turkish": "kapı",
+      "english": "door"
+    },
+    {
+      "rank": 325,
+      "turkish": "ürün",
+      "english": "product"
+    },
+    {
+      "rank": 326,
+      "turkish": "siyah",
+      "english": "black"
+    },
+    {
+      "rank": 327,
+      "turkish": "kısa",
+      "english": "short"
+    },
+    {
+      "rank": 328,
+      "turkish": "rakam",
+      "english": "numeral"
+    },
+    {
+      "rank": 329,
+      "turkish": "sınıf",
+      "english": "class"
+    },
+    {
+      "rank": 330,
+      "turkish": "rüzgar",
+      "english": "wind"
+    },
+    {
+      "rank": 331,
+      "turkish": "soru",
+      "english": "question"
+    },
+    {
+      "rank": 332,
+      "turkish": "olur",
+      "english": "happen"
+    },
+    {
+      "rank": 333,
+      "turkish": "komple",
+      "english": "complete"
+    },
+    {
+      "rank": 334,
+      "turkish": "gemi",
+      "english": "ship"
+    },
+    {
+      "rank": 335,
+      "turkish": "alan",
+      "english": "area"
+    },
+    {
+      "rank": 336,
+      "turkish": "yarım",
+      "english": "half"
+    },
+    {
+      "rank": 337,
+      "turkish": "kaya",
+      "english": "rock"
+    },
+    {
+      "rank": 338,
+      "turkish": "sipariş",
+      "english": "order"
+    },
+    {
+      "rank": 339,
+      "turkish": "yangın",
+      "english": "fire"
+    },
+    {
+      "rank": 340,
+      "turkish": "güney",
+      "english": "south"
+    },
+    {
+      "rank": 341,
+      "turkish": "sorun",
+      "english": "problem"
+    },
+    {
+      "rank": 342,
+      "turkish": "parça",
+      "english": "piece"
+    },
+    {
+      "rank": 343,
+      "turkish": "söyledi",
+      "english": "told"
+    },
+    {
+      "rank": 344,
+      "turkish": "biliyordu",
+      "english": "knew"
+    },
+    {
+      "rank": 345,
+      "turkish": "geçmek",
+      "english": "pass"
+    },
+    {
+      "rank": 346,
+      "turkish": "beri",
+      "english": "since"
+    },
+    {
+      "rank": 347,
+      "turkish": "üst",
+      "english": "top"
+    },
+    {
+      "rank": 348,
+      "turkish": "bütün",
+      "english": "whole"
+    },
+    {
+      "rank": 349,
+      "turkish": "kral",
+      "english": "king"
+    },
+    {
+      "rank": 350,
+      "turkish": "sokak",
+      "english": "street"
+    },
+    {
+      "rank": 352,
+      "turkish": "çarpmak",
+      "english": "multiply"
+    },
+    {
+      "rank": 354,
+      "turkish": "ders",
+      "english": "course"
+    },
+    {
+      "rank": 355,
+      "turkish": "kalmak",
+      "english": "stay"
+    },
+    {
+      "rank": 356,
+      "turkish": "tekerlek",
+      "english": "wheel"
+    },
+    {
+      "rank": 357,
+      "turkish": "tam",
+      "english": "full"
+    },
+    {
+      "rank": 358,
+      "turkish": "kuvvet",
+      "english": "force"
+    },
+    {
+      "rank": 359,
+      "turkish": "mavi",
+      "english": "blue"
+    },
+    {
+      "rank": 360,
+      "turkish": "nesne",
+      "english": "object"
+    },
+    {
+      "rank": 362,
+      "turkish": "yüzey",
+      "english": "surface"
+    },
+    {
+      "rank": 363,
+      "turkish": "derin",
+      "english": "deep"
+    },
+    {
+      "rank": 364,
+      "turkish": "ay",
+      "english": "moon"
+    },
+    {
+      "rank": 365,
+      "turkish": "ada",
+      "english": "island"
+    },
+    {
+      "rank": 366,
+      "turkish": "ayak",
+      "english": "foot"
+    },
+    {
+      "rank": 367,
+      "turkish": "sistem",
+      "english": "system"
+    },
+    {
+      "rank": 368,
+      "turkish": "meşgul",
+      "english": "busy"
+    },
+    {
+      "rank": 369,
+      "turkish": "Test",
+      "english": "test"
+    },
+    {
+      "rank": 370,
+      "turkish": "kayıt",
+      "english": "record"
+    },
+    {
+      "rank": 371,
+      "turkish": "tekne",
+      "english": "boat"
+    },
+    {
+      "rank": 372,
+      "turkish": "ortak",
+      "english": "common"
+    },
+    {
+      "rank": 373,
+      "turkish": "altın",
+      "english": "gold"
+    },
+    {
+      "rank": 374,
+      "turkish": "mümkün",
+      "english": "possible"
+    },
+    {
+      "rank": 375,
+      "turkish": "düzlem",
+      "english": "plane"
+    },
+    {
+      "rank": 377,
+      "turkish": "kuru",
+      "english": "dry"
+    },
+    {
+      "rank": 378,
+      "turkish": "acaba",
+      "english": "wonder"
+    },
+    {
+      "rank": 379,
+      "turkish": "gülmek",
+      "english": "laugh"
+    },
+    {
+      "rank": 380,
+      "turkish": "bin",
+      "english": "thousand"
+    },
+    {
+      "rank": 381,
+      "turkish": "önce",
+      "english": "ago"
+    },
+    {
+      "rank": 382,
+      "turkish": "koştu",
+      "english": "ran"
+    },
+    {
+      "rank": 383,
+      "turkish": "kontrol",
+      "english": "check"
+    },
+    {
+      "rank": 384,
+      "turkish": "oyunu",
+      "english": "game"
+    },
+    {
+      "rank": 385,
+      "turkish": "şekil",
+      "english": "shape"
+    },
+    {
+      "rank": 386,
+      "turkish": "eşit",
+      "english": "equate"
+    },
+    {
+      "rank": 387,
+      "turkish": "sıcak",
+      "english": "hot"
+    },
+    {
+      "rank": 388,
+      "turkish": "özledim",
+      "english": "miss"
+    },
+    {
+      "rank": 389,
+      "turkish": "getirdi",
+      "english": "brought"
+    },
+    {
+      "rank": 390,
+      "turkish": "ısı",
+      "english": "heat"
+    },
+    {
+      "rank": 391,
+      "turkish": "kar",
+      "english": "snow"
+    },
+    {
+      "rank": 392,
+      "turkish": "lastik",
+      "english": "tire"
+    },
+    {
+      "rank": 393,
+      "turkish": "getirmek",
+      "english": "bring"
+    },
+    {
+      "rank": 394,
+      "turkish": "evet",
+      "english": "yes"
+    },
+    {
+      "rank": 395,
+      "turkish": "uzak",
+      "english": "distant"
+    },
+    {
+      "rank": 396,
+      "turkish": "doldurun",
+      "english": "fill"
+    },
+    {
+      "rank": 397,
+      "turkish": "doğu",
+      "english": "east"
+    },
+    {
+      "rank": 398,
+      "turkish": "boya",
+      "english": "paint"
+    },
+    {
+      "rank": 399,
+      "turkish": "dil",
+      "english": "language"
+    },
+    {
+      "rank": 400,
+      "turkish": "arasında",
+      "english": "among"
+    },
+    {
+      "rank": 401,
+      "turkish": "ünitesi",
+      "english": "unit"
+    },
+    {
+      "rank": 402,
+      "turkish": "güç",
+      "english": "power"
+    },
+    {
+      "rank": 403,
+      "turkish": "kasaba",
+      "english": "town"
+    },
+    {
+      "rank": 404,
+      "turkish": "ince",
+      "english": "fine"
+    },
+    {
+      "rank": 405,
+      "turkish": "belirli",
+      "english": "certain"
+    },
+    {
+      "rank": 406,
+      "turkish": "uçmak",
+      "english": "fly"
+    },
+    {
+      "rank": 407,
+      "turkish": "düşmek",
+      "english": "fall"
+    },
+    {
+      "rank": 408,
+      "turkish": "kurşun",
+      "english": "lead"
+    },
+    {
+      "rank": 409,
+      "turkish": "ağlamak",
+      "english": "cry"
+    },
+    {
+      "rank": 410,
+      "turkish": "karanlık",
+      "english": "dark"
+    },
+    {
+      "rank": 411,
+      "turkish": "makine",
+      "english": "machine"
+    },
+    {
+      "rank": 412,
+      "turkish": "notu",
+      "english": "note"
+    },
+    {
+      "rank": 413,
+      "turkish": "bekleyin",
+      "english": "wait"
+    },
+    {
+      "rank": 414,
+      "turkish": "planı",
+      "english": "plan"
+    },
+    {
+      "rank": 415,
+      "turkish": "rakam",
+      "english": "figure"
+    },
+    {
+      "rank": 416,
+      "turkish": "yıldız",
+      "english": "star"
+    },
+    {
+      "rank": 417,
+      "turkish": "kutu",
+      "english": "box"
+    },
+    {
+      "rank": 419,
+      "turkish": "alan",
+      "english": "field"
+    },
+    {
+      "rank": 420,
+      "turkish": "gerisi",
+      "english": "rest"
+    },
+    {
+      "rank": 421,
+      "turkish": "doğru",
+      "english": "correct"
+    },
+    {
+      "rank": 422,
+      "turkish": "yetenekli",
+      "english": "able"
+    },
+    {
+      "rank": 423,
+      "turkish": "kiloluk",
+      "english": "pound"
+    },
+    {
+      "rank": 424,
+      "turkish": "bitti",
+      "english": "done"
+    },
+    {
+      "rank": 425,
+      "turkish": "güzellik",
+      "english": "beauty"
+    },
+    {
+      "rank": 426,
+      "turkish": "sürücü",
+      "english": "drive"
+    },
+    {
+      "rank": 427,
+      "turkish": "durdu",
+      "english": "stood"
+    },
+    {
+      "rank": 428,
+      "turkish": "içeren",
+      "english": "contain"
+    },
+    {
+      "rank": 429,
+      "turkish": "ön",
+      "english": "front"
+    },
+    {
+      "rank": 430,
+      "turkish": "öğretmek",
+      "english": "teach"
+    },
+    {
+      "rank": 431,
+      "turkish": "hafta",
+      "english": "week"
+    },
+    {
+      "rank": 432,
+      "turkish": "nihai",
+      "english": "final"
+    },
+    {
+      "rank": 433,
+      "turkish": "verdi",
+      "english": "gave"
+    },
+    {
+      "rank": 434,
+      "turkish": "yeşil",
+      "english": "green"
+    },
+    {
+      "rank": 435,
+      "turkish": "oh",
+      "english": "oh"
+    },
+    {
+      "rank": 436,
+      "turkish": "hızlı",
+      "english": "quick"
+    },
+    {
+      "rank": 437,
+      "turkish": "geliştirmek",
+      "english": "develop"
+    },
+    {
+      "rank": 438,
+      "turkish": "okyanus",
+      "english": "ocean"
+    },
+    {
+      "rank": 439,
+      "turkish": "sıcak",
+      "english": "warm"
+    },
+    {
+      "rank": 440,
+      "turkish": "ücretsiz",
+      "english": "free"
+    },
+    {
+      "rank": 441,
+      "turkish": "dakika",
+      "english": "minute"
+    },
+    {
+      "rank": 442,
+      "turkish": "güçlü",
+      "english": "strong"
+    },
+    {
+      "rank": 443,
+      "turkish": "özel",
+      "english": "special"
+    },
+    {
+      "rank": 444,
+      "turkish": "zihin",
+      "english": "mind"
+    },
+    {
+      "rank": 445,
+      "turkish": "arkasında",
+      "english": "behind"
+    },
+    {
+      "rank": 446,
+      "turkish": "açık",
+      "english": "clear"
+    },
+    {
+      "rank": 447,
+      "turkish": "kuyruk",
+      "english": "tail"
+    },
+    {
+      "rank": 448,
+      "turkish": "üretmek",
+      "english": "produce"
+    },
+    {
+      "rank": 449,
+      "turkish": "gerçek",
+      "english": "fact"
+    },
+    {
+      "rank": 450,
+      "turkish": "uzay",
+      "english": "space"
+    },
+    {
+      "rank": 451,
+      "turkish": "duydum",
+      "english": "heard"
+    },
+    {
+      "rank": 453,
+      "turkish": "saat",
+      "english": "hour"
+    },
+    {
+      "rank": 455,
+      "turkish": "gerçek",
+      "english": "true"
+    },
+    {
+      "rank": 456,
+      "turkish": "sırasında",
+      "english": "during"
+    },
+    {
+      "rank": 457,
+      "turkish": "yüz",
+      "english": "hundred"
+    },
+    {
+      "rank": 458,
+      "turkish": "beş",
+      "english": "five"
+    },
+    {
+      "rank": 459,
+      "turkish": "hatırlıyorum",
+      "english": "remember"
+    },
+    {
+      "rank": 460,
+      "turkish": "adım",
+      "english": "step"
+    },
+    {
+      "rank": 461,
+      "turkish": "erken",
+      "english": "early"
+    },
+    {
+      "rank": 462,
+      "turkish": "tutun",
+      "english": "hold"
+    },
+    {
+      "rank": 463,
+      "turkish": "batı",
+      "english": "west"
+    },
+    {
+      "rank": 464,
+      "turkish": "zemin",
+      "english": "ground"
+    },
+    {
+      "rank": 465,
+      "turkish": "faiz",
+      "english": "interest"
+    },
+    {
+      "rank": 466,
+      "turkish": "ulaşmak",
+      "english": "reach"
+    },
+    {
+      "rank": 467,
+      "turkish": "hızlı",
+      "english": "fast"
+    },
+    {
+      "rank": 468,
+      "turkish": "fiil",
+      "english": "verb"
+    },
+    {
+      "rank": 470,
+      "turkish": "dinle",
+      "english": "listen"
+    },
+    {
+      "rank": 471,
+      "turkish": "altı",
+      "english": "six"
+    },
+    {
+      "rank": 472,
+      "turkish": "tablo",
+      "english": "table"
+    },
+    {
+      "rank": 473,
+      "turkish": "seyahat",
+      "english": "travel"
+    },
+    {
+      "rank": 475,
+      "turkish": "sabah",
+      "english": "morning"
+    },
+    {
+      "rank": 476,
+      "turkish": "on",
+      "english": "ten"
+    },
+    {
+      "rank": 477,
+      "turkish": "basit",
+      "english": "simple"
+    },
+    {
+      "rank": 478,
+      "turkish": "birkaç",
+      "english": "several"
+    },
+    {
+      "rank": 479,
+      "turkish": "ünlü",
+      "english": "vowel"
+    },
+    {
+      "rank": 480,
+      "turkish": "doğru",
+      "english": "toward"
+    },
+    {
+      "rank": 481,
+      "turkish": "savaş",
+      "english": "war"
+    },
+    {
+      "rank": 482,
+      "turkish": "koymak",
+      "english": "lay"
+    },
+    {
+      "rank": 483,
+      "turkish": "karşı",
+      "english": "against"
+    },
+    {
+      "rank": 484,
+      "turkish": "desen",
+      "english": "pattern"
+    },
+    {
+      "rank": 485,
+      "turkish": "yavaş",
+      "english": "slow"
+    },
+    {
+      "rank": 486,
+      "turkish": "merkezi",
+      "english": "center"
+    },
+    {
+      "rank": 487,
+      "turkish": "aşk",
+      "english": "love"
+    },
+    {
+      "rank": 488,
+      "turkish": "kişi",
+      "english": "person"
+    },
+    {
+      "rank": 489,
+      "turkish": "para",
+      "english": "money"
+    },
+    {
+      "rank": 490,
+      "turkish": "hizmet",
+      "english": "serve"
+    },
+    {
+      "rank": 491,
+      "turkish": "görünür",
+      "english": "appear"
+    },
+    {
+      "rank": 492,
+      "turkish": "yol",
+      "english": "road"
+    },
+    {
+      "rank": 493,
+      "turkish": "harita",
+      "english": "map"
+    },
+    {
+      "rank": 494,
+      "turkish": "yağmur",
+      "english": "rain"
+    },
+    {
+      "rank": 495,
+      "turkish": "kural",
+      "english": "rule"
+    },
+    {
+      "rank": 496,
+      "turkish": "idare",
+      "english": "govern"
+    },
+    {
+      "rank": 497,
+      "turkish": "Çek",
+      "english": "pull"
+    },
+    {
+      "rank": 498,
+      "turkish": "soğuk",
+      "english": "cold"
+    },
+    {
+      "rank": 499,
+      "turkish": "haber",
+      "english": "notice"
+    },
+    {
+      "rank": 500,
+      "turkish": "ses",
+      "english": "voice"
+    },
+    {
+      "rank": 501,
+      "turkish": "enerji",
+      "english": "energy"
+    },
+    {
+      "rank": 502,
+      "turkish": "avı",
+      "english": "hunt"
+    },
+    {
+      "rank": 503,
+      "turkish": "muhtemel",
+      "english": "probable"
+    },
+    {
+      "rank": 504,
+      "turkish": "yatak",
+      "english": "bed"
+    },
+    {
+      "rank": 505,
+      "turkish": "kardeş",
+      "english": "brother"
+    },
+    {
+      "rank": 506,
+      "turkish": "yumurta",
+      "english": "egg"
+    },
+    {
+      "rank": 507,
+      "turkish": "binmek",
+      "english": "ride"
+    },
+    {
+      "rank": 508,
+      "turkish": "hücre",
+      "english": "cell"
+    },
+    {
+      "rank": 509,
+      "turkish": "inanıyorum",
+      "english": "believe"
+    },
+    {
+      "rank": 510,
+      "turkish": "belki",
+      "english": "perhaps"
+    },
+    {
+      "rank": 511,
+      "turkish": "seçmek",
+      "english": "pick"
+    },
+    {
+      "rank": 512,
+      "turkish": "ani",
+      "english": "sudden"
+    },
+    {
+      "rank": 513,
+      "turkish": "saymak",
+      "english": "count"
+    },
+    {
+      "rank": 514,
+      "turkish": "kare",
+      "english": "square"
+    },
+    {
+      "rank": 515,
+      "turkish": "neden",
+      "english": "reason"
+    },
+    {
+      "rank": 516,
+      "turkish": "uzunluk",
+      "english": "length"
+    },
+    {
+      "rank": 517,
+      "turkish": "temsil",
+      "english": "represent"
+    },
+    {
+      "rank": 518,
+      "turkish": "sanat",
+      "english": "art"
+    },
+    {
+      "rank": 519,
+      "turkish": "konu",
+      "english": "subject"
+    },
+    {
+      "rank": 520,
+      "turkish": "bölge",
+      "english": "region"
+    },
+    {
+      "rank": 521,
+      "turkish": "boyut",
+      "english": "size"
+    },
+    {
+      "rank": 522,
+      "turkish": "değiştirmek",
+      "english": "vary"
+    },
+    {
+      "rank": 523,
+      "turkish": "yerleşmek",
+      "english": "settle"
+    },
+    {
+      "rank": 524,
+      "turkish": "konuşmak",
+      "english": "speak"
+    },
+    {
+      "rank": 525,
+      "turkish": "ağırlık",
+      "english": "weight"
+    },
+    {
+      "rank": 526,
+      "turkish": "genel",
+      "english": "general"
+    },
+    {
+      "rank": 527,
+      "turkish": "buz",
+      "english": "ice"
+    },
+    {
+      "rank": 528,
+      "turkish": "madde",
+      "english": "matter"
+    },
+    {
+      "rank": 529,
+      "turkish": "daire",
+      "english": "circle"
+    },
+    {
+      "rank": 530,
+      "turkish": "çifti",
+      "english": "pair"
+    },
+    {
+      "rank": 531,
+      "turkish": "dahil",
+      "english": "include"
+    },
+    {
+      "rank": 532,
+      "turkish": "bölmek",
+      "english": "divide"
+    },
+    {
+      "rank": 533,
+      "turkish": "hece",
+      "english": "syllable"
+    },
+    {
+      "rank": 534,
+      "turkish": "keçe",
+      "english": "felt"
+    },
+    {
+      "rank": 535,
+      "turkish": "büyük",
+      "english": "grand"
+    },
+    {
+      "rank": 536,
+      "turkish": "top",
+      "english": "ball"
+    },
+    {
+      "rank": 537,
+      "turkish": "henüz",
+      "english": "yet"
+    },
+    {
+      "rank": 538,
+      "turkish": "dalga",
+      "english": "wave"
+    },
+    {
+      "rank": 539,
+      "turkish": "bırakın",
+      "english": "drop"
+    },
+    {
+      "rank": 540,
+      "turkish": "kalp",
+      "english": "heart"
+    },
+    {
+      "rank": 541,
+      "turkish": "duyuyorum",
+      "english": "am"
+    },
+    {
+      "rank": 542,
+      "turkish": "mevcut",
+      "english": "present"
+    },
+    {
+      "rank": 543,
+      "turkish": "ağır",
+      "english": "heavy"
+    },
+    {
+      "rank": 544,
+      "turkish": "dans",
+      "english": "dance"
+    },
+    {
+      "rank": 545,
+      "turkish": "motor",
+      "english": "engine"
+    },
+    {
+      "rank": 546,
+      "turkish": "pozisyon",
+      "english": "position"
+    },
+    {
+      "rank": 547,
+      "turkish": "kol",
+      "english": "arm"
+    },
+    {
+      "rank": 548,
+      "turkish": "geniş",
+      "english": "wide"
+    },
+    {
+      "rank": 549,
+      "turkish": "yelken",
+      "english": "sail"
+    },
+    {
+      "rank": 550,
+      "turkish": "materyal",
+      "english": "material"
+    },
+    {
+      "rank": 551,
+      "turkish": "kesir",
+      "english": "fraction"
+    },
+    {
+      "rank": 552,
+      "turkish": "orman",
+      "english": "forest"
+    },
+    {
+      "rank": 553,
+      "turkish": "oturmak",
+      "english": "sit"
+    },
+    {
+      "rank": 554,
+      "turkish": "yarış",
+      "english": "race"
+    },
+    {
+      "rank": 555,
+      "turkish": "penceresi",
+      "english": "window"
+    },
+    {
+      "rank": 556,
+      "turkish": "mağaza",
+      "english": "store"
+    },
+    {
+      "rank": 557,
+      "turkish": "yaz",
+      "english": "summer"
+    },
+    {
+      "rank": 558,
+      "turkish": "tren",
+      "english": "train"
+    },
+    {
+      "rank": 559,
+      "turkish": "uyku",
+      "english": "sleep"
+    },
+    {
+      "rank": 560,
+      "turkish": "kanıtlamak",
+      "english": "prove"
+    },
+    {
+      "rank": 561,
+      "turkish": "yalnız",
+      "english": "lone"
+    },
+    {
+      "rank": 562,
+      "turkish": "bacak",
+      "english": "leg"
+    },
+    {
+      "rank": 563,
+      "turkish": "egzersiz",
+      "english": "exercise"
+    },
+    {
+      "rank": 564,
+      "turkish": "duvar",
+      "english": "wall"
+    },
+    {
+      "rank": 566,
+      "turkish": "dağ",
+      "english": "mount"
+    },
+    {
+      "rank": 567,
+      "turkish": "dilek",
+      "english": "wish"
+    },
+    {
+      "rank": 568,
+      "turkish": "gökyüzü",
+      "english": "sky"
+    },
+    {
+      "rank": 569,
+      "turkish": "kurulu",
+      "english": "board"
+    },
+    {
+      "rank": 570,
+      "turkish": "sevinç",
+      "english": "joy"
+    },
+    {
+      "rank": 571,
+      "turkish": "kış",
+      "english": "winter"
+    },
+    {
+      "rank": 573,
+      "turkish": "yazılı",
+      "english": "written"
+    },
+    {
+      "rank": 574,
+      "turkish": "vahşi",
+      "english": "wild"
+    },
+    {
+      "rank": 575,
+      "turkish": "enstrüman",
+      "english": "instrument"
+    },
+    {
+      "rank": 576,
+      "turkish": "tuttu",
+      "english": "kept"
+    },
+    {
+      "rank": 577,
+      "turkish": "cam",
+      "english": "glass"
+    },
+    {
+      "rank": 578,
+      "turkish": "çim",
+      "english": "grass"
+    },
+    {
+      "rank": 579,
+      "turkish": "inek",
+      "english": "cow"
+    },
+    {
+      "rank": 580,
+      "turkish": "iş",
+      "english": "job"
+    },
+    {
+      "rank": 581,
+      "turkish": "kenar",
+      "english": "edge"
+    },
+    {
+      "rank": 582,
+      "turkish": "işareti",
+      "english": "sign"
+    },
+    {
+      "rank": 583,
+      "turkish": "ziyareti",
+      "english": "visit"
+    },
+    {
+      "rank": 584,
+      "turkish": "geçmiş",
+      "english": "past"
+    },
+    {
+      "rank": 585,
+      "turkish": "yumuşak",
+      "english": "soft"
+    },
+    {
+      "rank": 586,
+      "turkish": "eğlenceli",
+      "english": "fun"
+    },
+    {
+      "rank": 587,
+      "turkish": "parlak",
+      "english": "bright"
+    },
+    {
+      "rank": 588,
+      "turkish": "gaz",
+      "english": "gas"
+    },
+    {
+      "rank": 589,
+      "turkish": "hava",
+      "english": "weather"
+    },
+    {
+      "rank": 590,
+      "turkish": "ay",
+      "english": "month"
+    },
+    {
+      "rank": 591,
+      "turkish": "milyon",
+      "english": "million"
+    },
+    {
+      "rank": 592,
+      "turkish": "ayı",
+      "english": "bear"
+    },
+    {
+      "rank": 593,
+      "turkish": "bitirmek",
+      "english": "finish"
+    },
+    {
+      "rank": 594,
+      "turkish": "mutlu",
+      "english": "happy"
+    },
+    {
+      "rank": 595,
+      "turkish": "umut",
+      "english": "hope"
+    },
+    {
+      "rank": 596,
+      "turkish": "çiçek",
+      "english": "flower"
+    },
+    {
+      "rank": 597,
+      "turkish": "giydirmek",
+      "english": "clothe"
+    },
+    {
+      "rank": 598,
+      "turkish": "garip",
+      "english": "strange"
+    },
+    {
+      "rank": 599,
+      "turkish": "gitti",
+      "english": "gone"
+    },
+    {
+      "rank": 600,
+      "turkish": "ticaret",
+      "english": "trade"
+    },
+    {
+      "rank": 601,
+      "turkish": "melodi",
+      "english": "melody"
+    },
+    {
+      "rank": 602,
+      "turkish": "gezi",
+      "english": "trip"
+    },
+    {
+      "rank": 603,
+      "turkish": "ofis",
+      "english": "office"
+    },
+    {
+      "rank": 604,
+      "turkish": "almak",
+      "english": "receive"
+    },
+    {
+      "rank": 605,
+      "turkish": "satır",
+      "english": "row"
+    },
+    {
+      "rank": 606,
+      "turkish": "ağız",
+      "english": "mouth"
+    },
+    {
+      "rank": 607,
+      "turkish": "tam",
+      "english": "exact"
+    },
+    {
+      "rank": 608,
+      "turkish": "sembol",
+      "english": "symbol"
+    },
+    {
+      "rank": 609,
+      "turkish": "ölmek",
+      "english": "die"
+    },
+    {
+      "rank": 611,
+      "turkish": "sorun",
+      "english": "trouble"
+    },
+    {
+      "rank": 612,
+      "turkish": "bağırmak",
+      "english": "shout"
+    },
+    {
+      "rank": 613,
+      "turkish": "hariç",
+      "english": "except"
+    },
+    {
+      "rank": 614,
+      "turkish": "yazdı",
+      "english": "wrote"
+    },
+    {
+      "rank": 615,
+      "turkish": "tohum",
+      "english": "seed"
+    },
+    {
+      "rank": 616,
+      "turkish": "sesi",
+      "english": "tone"
+    },
+    {
+      "rank": 617,
+      "turkish": "katılmak",
+      "english": "join"
+    },
+    {
+      "rank": 618,
+      "turkish": "önermek",
+      "english": "suggest"
+    },
+    {
+      "rank": 619,
+      "turkish": "temiz",
+      "english": "clean"
+    },
+    {
+      "rank": 620,
+      "turkish": "molası",
+      "english": "break"
+    },
+    {
+      "rank": 621,
+      "turkish": "bayan",
+      "english": "lady"
+    },
+    {
+      "rank": 622,
+      "turkish": "yarda",
+      "english": "yard"
+    },
+    {
+      "rank": 623,
+      "turkish": "yükselecek",
+      "english": "rise"
+    },
+    {
+      "rank": 624,
+      "turkish": "kötü",
+      "english": "bad"
+    },
+    {
+      "rank": 625,
+      "turkish": "darbe",
+      "english": "blow"
+    },
+    {
+      "rank": 626,
+      "turkish": "yağ",
+      "english": "oil"
+    },
+    {
+      "rank": 627,
+      "turkish": "kan",
+      "english": "blood"
+    },
+    {
+      "rank": 628,
+      "turkish": "dokunma",
+      "english": "touch"
+    },
+    {
+      "rank": 629,
+      "turkish": "büyüdü",
+      "english": "grew"
+    },
+    {
+      "rank": 630,
+      "turkish": "yüzde",
+      "english": "cent"
+    },
+    {
+      "rank": 631,
+      "turkish": "karıştırmak",
+      "english": "mix"
+    },
+    {
+      "rank": 632,
+      "turkish": "takım",
+      "english": "team"
+    },
+    {
+      "rank": 633,
+      "turkish": "tel",
+      "english": "wire"
+    },
+    {
+      "rank": 634,
+      "turkish": "maliyet",
+      "english": "cost"
+    },
+    {
+      "rank": 635,
+      "turkish": "kaybetti",
+      "english": "lost"
+    },
+    {
+      "rank": 636,
+      "turkish": "kahverengi",
+      "english": "brown"
+    },
+    {
+      "rank": 637,
+      "turkish": "giymek",
+      "english": "wear"
+    },
+    {
+      "rank": 638,
+      "turkish": "bahçe",
+      "english": "garden"
+    },
+    {
+      "rank": 639,
+      "turkish": "eşit",
+      "english": "equal"
+    },
+    {
+      "rank": 640,
+      "turkish": "gönderildi",
+      "english": "sent"
+    },
+    {
+      "rank": 641,
+      "turkish": "seçim",
+      "english": "choose"
+    },
+    {
+      "rank": 642,
+      "turkish": "düştü",
+      "english": "fell"
+    },
+    {
+      "rank": 643,
+      "turkish": "uygun",
+      "english": "fit"
+    },
+    {
+      "rank": 644,
+      "turkish": "akış",
+      "english": "flow"
+    },
+    {
+      "rank": 645,
+      "turkish": "adil",
+      "english": "fair"
+    },
+    {
+      "rank": 646,
+      "turkish": "banka",
+      "english": "bank"
+    },
+    {
+      "rank": 647,
+      "turkish": "toplamak",
+      "english": "collect"
+    },
+    {
+      "rank": 648,
+      "turkish": "kaydetmek",
+      "english": "save"
+    },
+    {
+      "rank": 649,
+      "turkish": "kontrolü",
+      "english": "control"
+    },
+    {
+      "rank": 650,
+      "turkish": "ondalık",
+      "english": "decimal"
+    },
+    {
+      "rank": 651,
+      "turkish": "kulak",
+      "english": "ear"
+    },
+    {
+      "rank": 652,
+      "turkish": "başka",
+      "english": "else"
+    },
+    {
+      "rank": 653,
+      "turkish": "oldukça",
+      "english": "quite"
+    },
+    {
+      "rank": 654,
+      "turkish": "kırdı",
+      "english": "broke"
+    },
+    {
+      "rank": 655,
+      "turkish": "dava",
+      "english": "case"
+    },
+    {
+      "rank": 656,
+      "turkish": "orta",
+      "english": "middle"
+    },
+    {
+      "rank": 657,
+      "turkish": "öldürmek",
+      "english": "kill"
+    },
+    {
+      "rank": 658,
+      "turkish": "oğlu",
+      "english": "son"
+    },
+    {
+      "rank": 659,
+      "turkish": "göl",
+      "english": "lake"
+    },
+    {
+      "rank": 660,
+      "turkish": "an",
+      "english": "moment"
+    },
+    {
+      "rank": 661,
+      "turkish": "ölçek",
+      "english": "scale"
+    },
+    {
+      "rank": 663,
+      "turkish": "bahar",
+      "english": "spring"
+    },
+    {
+      "rank": 664,
+      "turkish": "gözlemlemek",
+      "english": "observe"
+    },
+    {
+      "rank": 665,
+      "turkish": "çocuk",
+      "english": "child"
+    },
+    {
+      "rank": 666,
+      "turkish": "düz",
+      "english": "straight"
+    },
+    {
+      "rank": 667,
+      "turkish": "ünsüz",
+      "english": "consonant"
+    },
+    {
+      "rank": 668,
+      "turkish": "ulus",
+      "english": "nation"
+    },
+    {
+      "rank": 669,
+      "turkish": "Sözlük",
+      "english": "dictionary"
+    },
+    {
+      "rank": 670,
+      "turkish": "süt",
+      "english": "milk"
+    },
+    {
+      "rank": 671,
+      "turkish": "hız",
+      "english": "speed"
+    },
+    {
+      "rank": 672,
+      "turkish": "yöntem",
+      "english": "method"
+    },
+    {
+      "rank": 673,
+      "turkish": "Organ",
+      "english": "organ"
+    },
+    {
+      "rank": 674,
+      "turkish": "ödeme",
+      "english": "pay"
+    },
+    {
+      "rank": 675,
+      "turkish": "yaş",
+      "english": "age"
+    },
+    {
+      "rank": 676,
+      "turkish": "bölüm",
+      "english": "section"
+    },
+    {
+      "rank": 677,
+      "turkish": "elbise",
+      "english": "dress"
+    },
+    {
+      "rank": 678,
+      "turkish": "bulut",
+      "english": "cloud"
+    },
+    {
+      "rank": 679,
+      "turkish": "sürpriz",
+      "english": "surprise"
+    },
+    {
+      "rank": 680,
+      "turkish": "sessiz",
+      "english": "quiet"
+    },
+    {
+      "rank": 681,
+      "turkish": "taş",
+      "english": "stone"
+    },
+    {
+      "rank": 682,
+      "turkish": "küçücük",
+      "english": "tiny"
+    },
+    {
+      "rank": 683,
+      "turkish": "tırmanış",
+      "english": "climb"
+    },
+    {
+      "rank": 684,
+      "turkish": "serin",
+      "english": "cool"
+    },
+    {
+      "rank": 685,
+      "turkish": "dizayn",
+      "english": "design"
+    },
+    {
+      "rank": 686,
+      "turkish": "kötü",
+      "english": "poor"
+    },
+    {
+      "rank": 687,
+      "turkish": "çok",
+      "english": "lot"
+    },
+    {
+      "rank": 688,
+      "turkish": "deneme",
+      "english": "experiment"
+    },
+    {
+      "rank": 689,
+      "turkish": "alt",
+      "english": "bottom"
+    },
+    {
+      "rank": 690,
+      "turkish": "anahtar",
+      "english": "key"
+    },
+    {
+      "rank": 691,
+      "turkish": "demir",
+      "english": "iron"
+    },
+    {
+      "rank": 692,
+      "turkish": "tek",
+      "english": "single"
+    },
+    {
+      "rank": 693,
+      "turkish": "sopa",
+      "english": "stick"
+    },
+    {
+      "rank": 694,
+      "turkish": "düz",
+      "english": "flat"
+    },
+    {
+      "rank": 695,
+      "turkish": "yirmi",
+      "english": "twenty"
+    },
+    {
+      "rank": 696,
+      "turkish": "cilt",
+      "english": "skin"
+    },
+    {
+      "rank": 697,
+      "turkish": "gülümseme",
+      "english": "smile"
+    },
+    {
+      "rank": 698,
+      "turkish": "kırışık",
+      "english": "crease"
+    },
+    {
+      "rank": 699,
+      "turkish": "delik",
+      "english": "hole"
+    },
+    {
+      "rank": 700,
+      "turkish": "atlama",
+      "english": "jump"
+    },
+    {
+      "rank": 701,
+      "turkish": "bebek",
+      "english": "baby"
+    },
+    {
+      "rank": 702,
+      "turkish": "sekiz",
+      "english": "eight"
+    },
+    {
+      "rank": 703,
+      "turkish": "köy",
+      "english": "village"
+    },
+    {
+      "rank": 704,
+      "turkish": "karşılamak",
+      "english": "meet"
+    },
+    {
+      "rank": 705,
+      "turkish": "kök",
+      "english": "root"
+    },
+    {
+      "rank": 706,
+      "turkish": "satın",
+      "english": "buy"
+    },
+    {
+      "rank": 707,
+      "turkish": "yükseltmek",
+      "english": "raise"
+    },
+    {
+      "rank": 708,
+      "turkish": "çözmek",
+      "english": "solve"
+    },
+    {
+      "rank": 709,
+      "turkish": "metal",
+      "english": "metal"
+    },
+    {
+      "rank": 710,
+      "turkish": "olsun",
+      "english": "whether"
+    },
+    {
+      "rank": 711,
+      "turkish": "it",
+      "english": "push"
+    },
+    {
+      "rank": 712,
+      "turkish": "yedi",
+      "english": "seven"
+    },
+    {
+      "rank": 713,
+      "turkish": "paragraf",
+      "english": "paragraph"
+    },
+    {
+      "rank": 714,
+      "turkish": "üçüncü",
+      "english": "third"
+    },
+    {
+      "rank": 716,
+      "turkish": "tutulan",
+      "english": "held"
+    },
+    {
+      "rank": 717,
+      "turkish": "saç",
+      "english": "hair"
+    },
+    {
+      "rank": 718,
+      "turkish": "tanımlamak",
+      "english": "describe"
+    },
+    {
+      "rank": 719,
+      "turkish": "aşçı",
+      "english": "cook"
+    },
+    {
+      "rank": 720,
+      "turkish": "zemin",
+      "english": "floor"
+    },
+    {
+      "rank": 722,
+      "turkish": "sonuç",
+      "english": "result"
+    },
+    {
+      "rank": 723,
+      "turkish": "yanmak",
+      "english": "burn"
+    },
+    {
+      "rank": 724,
+      "turkish": "tepe",
+      "english": "hill"
+    },
+    {
+      "rank": 725,
+      "turkish": "güvenli",
+      "english": "safe"
+    },
+    {
+      "rank": 726,
+      "turkish": "kedi",
+      "english": "cat"
+    },
+    {
+      "rank": 727,
+      "turkish": "yüzyıl",
+      "english": "century"
+    },
+    {
+      "rank": 728,
+      "turkish": "düşünmek",
+      "english": "consider"
+    },
+    {
+      "rank": 729,
+      "turkish": "tipi",
+      "english": "type"
+    },
+    {
+      "rank": 730,
+      "turkish": "hukuk",
+      "english": "law"
+    },
+    {
+      "rank": 731,
+      "turkish": "bit",
+      "english": "bit"
+    },
+    {
+      "rank": 732,
+      "turkish": "sahil",
+      "english": "coast"
+    },
+    {
+      "rank": 733,
+      "turkish": "kopya",
+      "english": "copy"
+    },
+    {
+      "rank": 734,
+      "turkish": "ifade",
+      "english": "phrase"
+    },
+    {
+      "rank": 735,
+      "turkish": "sessiz",
+      "english": "silent"
+    },
+    {
+      "rank": 737,
+      "turkish": "kum",
+      "english": "sand"
+    },
+    {
+      "rank": 738,
+      "turkish": "toprak",
+      "english": "soil"
+    },
+    {
+      "rank": 739,
+      "turkish": "rulo",
+      "english": "roll"
+    },
+    {
+      "rank": 740,
+      "turkish": "sıcaklık",
+      "english": "temperature"
+    },
+    {
+      "rank": 741,
+      "turkish": "parmak",
+      "english": "finger"
+    },
+    {
+      "rank": 742,
+      "turkish": "sanayi",
+      "english": "industry"
+    },
+    {
+      "rank": 743,
+      "turkish": "değeri",
+      "english": "value"
+    },
+    {
+      "rank": 744,
+      "turkish": "kavga",
+      "english": "fight"
+    },
+    {
+      "rank": 745,
+      "turkish": "yalan",
+      "english": "lie"
+    },
+    {
+      "rank": 746,
+      "turkish": "yendi",
+      "english": "beat"
+    },
+    {
+      "rank": 747,
+      "turkish": "heyecanlandırmak",
+      "english": "excite"
+    },
+    {
+      "rank": 748,
+      "turkish": "doğal",
+      "english": "natural"
+    },
+    {
+      "rank": 749,
+      "turkish": "görünüm",
+      "english": "view"
+    },
+    {
+      "rank": 750,
+      "turkish": "sense",
+      "english": "sense"
+    },
+    {
+      "rank": 751,
+      "turkish": "sermaye",
+      "english": "capital"
+    },
+    {
+      "rank": 752,
+      "turkish": "olmaz",
+      "english": "won’t"
+    },
+    {
+      "rank": 753,
+      "turkish": "sandalye",
+      "english": "chair"
+    },
+    {
+      "rank": 754,
+      "turkish": "tehlike",
+      "english": "danger"
+    },
+    {
+      "rank": 755,
+      "turkish": "meyve",
+      "english": "fruit"
+    },
+    {
+      "rank": 756,
+      "turkish": "zengin",
+      "english": "rich"
+    },
+    {
+      "rank": 757,
+      "turkish": "kalın",
+      "english": "thick"
+    },
+    {
+      "rank": 758,
+      "turkish": "asker",
+      "english": "soldier"
+    },
+    {
+      "rank": 759,
+      "turkish": "süreç",
+      "english": "process"
+    },
+    {
+      "rank": 760,
+      "turkish": "işletmek",
+      "english": "operate"
+    },
+    {
+      "rank": 761,
+      "turkish": "uygulama",
+      "english": "practice"
+    },
+    {
+      "rank": 762,
+      "turkish": "ayrı",
+      "english": "separate"
+    },
+    {
+      "rank": 763,
+      "turkish": "zor",
+      "english": "difficult"
+    },
+    {
+      "rank": 764,
+      "turkish": "doktor",
+      "english": "doctor"
+    },
+    {
+      "rank": 765,
+      "turkish": "lütfen",
+      "english": "please"
+    },
+    {
+      "rank": 766,
+      "turkish": "korumak",
+      "english": "protect"
+    },
+    {
+      "rank": 767,
+      "turkish": "öğlen",
+      "english": "noon"
+    },
+    {
+      "rank": 768,
+      "turkish": "kırpma",
+      "english": "crop"
+    },
+    {
+      "rank": 769,
+      "turkish": "çağdaş",
+      "english": "modern"
+    },
+    {
+      "rank": 770,
+      "turkish": "eleman",
+      "english": "element"
+    },
+    {
+      "rank": 771,
+      "turkish": "vurmak",
+      "english": "hit"
+    },
+    {
+      "rank": 772,
+      "turkish": "öğrenci",
+      "english": "student"
+    },
+    {
+      "rank": 773,
+      "turkish": "köşe",
+      "english": "corner"
+    },
+    {
+      "rank": 774,
+      "turkish": "parti",
+      "english": "party"
+    },
+    {
+      "rank": 775,
+      "turkish": "besleme",
+      "english": "supply"
+    },
+    {
+      "rank": 776,
+      "turkish": "kimin",
+      "english": "whose"
+    },
+    {
+      "rank": 777,
+      "turkish": "yerleştirmek",
+      "english": "locate"
+    },
+    {
+      "rank": 778,
+      "turkish": "halka",
+      "english": "ring"
+    },
+    {
+      "rank": 779,
+      "turkish": "karakter",
+      "english": "character"
+    },
+    {
+      "rank": 780,
+      "turkish": "böcek",
+      "english": "insect"
+    },
+    {
+      "rank": 781,
+      "turkish": "yakalandı",
+      "english": "caught"
+    },
+    {
+      "rank": 782,
+      "turkish": "dönemi",
+      "english": "period"
+    },
+    {
+      "rank": 783,
+      "turkish": "göstermektedir",
+      "english": "indicate"
+    },
+    {
+      "rank": 784,
+      "turkish": "radyo",
+      "english": "radio"
+    },
+    {
+      "rank": 785,
+      "turkish": "konuştu",
+      "english": "spoke"
+    },
+    {
+      "rank": 786,
+      "turkish": "atomudur",
+      "english": "atom"
+    },
+    {
+      "rank": 787,
+      "turkish": "insan",
+      "english": "human"
+    },
+    {
+      "rank": 788,
+      "turkish": "geçmişi",
+      "english": "history"
+    },
+    {
+      "rank": 789,
+      "turkish": "etkisi",
+      "english": "effect"
+    },
+    {
+      "rank": 790,
+      "turkish": "elektrik",
+      "english": "electric"
+    },
+    {
+      "rank": 791,
+      "turkish": "bekliyoruz",
+      "english": "expect"
+    },
+    {
+      "rank": 792,
+      "turkish": "kemik",
+      "english": "bone"
+    },
+    {
+      "rank": 793,
+      "turkish": "demiryolu",
+      "english": "rail"
+    },
+    {
+      "rank": 794,
+      "turkish": "hayal",
+      "english": "imagine"
+    },
+    {
+      "rank": 795,
+      "turkish": "sağlamak",
+      "english": "provide"
+    },
+    {
+      "rank": 796,
+      "turkish": "katılıyorum",
+      "english": "agree"
+    },
+    {
+      "rank": 797,
+      "turkish": "böylece",
+      "english": "thus"
+    },
+    {
+      "rank": 798,
+      "turkish": "nazik",
+      "english": "gentle"
+    },
+    {
+      "rank": 799,
+      "turkish": "kadın",
+      "english": "woman"
+    },
+    {
+      "rank": 800,
+      "turkish": "kaptan",
+      "english": "captain"
+    },
+    {
+      "rank": 801,
+      "turkish": "sanırım",
+      "english": "guess"
+    },
+    {
+      "rank": 802,
+      "turkish": "gerekli",
+      "english": "necessary"
+    },
+    {
+      "rank": 803,
+      "turkish": "keskin",
+      "english": "sharp"
+    },
+    {
+      "rank": 804,
+      "turkish": "kanat",
+      "english": "wing"
+    },
+    {
+      "rank": 805,
+      "turkish": "oluşturmak",
+      "english": "create"
+    },
+    {
+      "rank": 806,
+      "turkish": "komşu",
+      "english": "neighbor"
+    },
+    {
+      "rank": 807,
+      "turkish": "yıkama",
+      "english": "wash"
+    },
+    {
+      "rank": 808,
+      "turkish": "yarasa",
+      "english": "bat"
+    },
+    {
+      "rank": 809,
+      "turkish": "yerine",
+      "english": "rather"
+    },
+    {
+      "rank": 810,
+      "turkish": "kalabalık",
+      "english": "crowd"
+    },
+    {
+      "rank": 811,
+      "turkish": "mısır",
+      "english": "corn"
+    },
+    {
+      "rank": 812,
+      "turkish": "karşılaştırma",
+      "english": "compare"
+    },
+    {
+      "rank": 813,
+      "turkish": "şiir",
+      "english": "poem"
+    },
+    {
+      "rank": 814,
+      "turkish": "dize",
+      "english": "string"
+    },
+    {
+      "rank": 815,
+      "turkish": "çan",
+      "english": "bell"
+    },
+    {
+      "rank": 816,
+      "turkish": "bağlı",
+      "english": "depend"
+    },
+    {
+      "rank": 817,
+      "turkish": "et",
+      "english": "meat"
+    },
+    {
+      "rank": 818,
+      "turkish": "ovmak",
+      "english": "rub"
+    },
+    {
+      "rank": 819,
+      "turkish": "tüp",
+      "english": "tube"
+    },
+    {
+      "rank": 820,
+      "turkish": "ünlü",
+      "english": "famous"
+    },
+    {
+      "rank": 821,
+      "turkish": "dolar",
+      "english": "dollar"
+    },
+    {
+      "rank": 822,
+      "turkish": "akışı",
+      "english": "stream"
+    },
+    {
+      "rank": 823,
+      "turkish": "korku",
+      "english": "fear"
+    },
+    {
+      "rank": 824,
+      "turkish": "görüş",
+      "english": "sight"
+    },
+    {
+      "rank": 825,
+      "turkish": "ince",
+      "english": "thin"
+    },
+    {
+      "rank": 826,
+      "turkish": "üçgen",
+      "english": "triangle"
+    },
+    {
+      "rank": 827,
+      "turkish": "gezegen",
+      "english": "planet"
+    },
+    {
+      "rank": 828,
+      "turkish": "acele",
+      "english": "hurry"
+    },
+    {
+      "rank": 829,
+      "turkish": "baş",
+      "english": "chief"
+    },
+    {
+      "rank": 830,
+      "turkish": "koloni",
+      "english": "colony"
+    },
+    {
+      "rank": 831,
+      "turkish": "saat",
+      "english": "clock"
+    },
+    {
+      "rank": 832,
+      "turkish": "mayın",
+      "english": "mine"
+    },
+    {
+      "rank": 833,
+      "turkish": "kravat",
+      "english": "tie"
+    },
+    {
+      "rank": 834,
+      "turkish": "girin",
+      "english": "enter"
+    },
+    {
+      "rank": 835,
+      "turkish": "büyük",
+      "english": "major"
+    },
+    {
+      "rank": 836,
+      "turkish": "taze",
+      "english": "fresh"
+    },
+    {
+      "rank": 837,
+      "turkish": "arama",
+      "english": "search"
+    },
+    {
+      "rank": 838,
+      "turkish": "göndermek",
+      "english": "send"
+    },
+    {
+      "rank": 839,
+      "turkish": "sarı",
+      "english": "yellow"
+    },
+    {
+      "rank": 840,
+      "turkish": "gun",
+      "english": "gun"
+    },
+    {
+      "rank": 841,
+      "turkish": "izin",
+      "english": "allow"
+    },
+    {
+      "rank": 842,
+      "turkish": "baskı",
+      "english": "print"
+    },
+    {
+      "rank": 843,
+      "turkish": "ölü",
+      "english": "dead"
+    },
+    {
+      "rank": 844,
+      "turkish": "nokta",
+      "english": "spot"
+    },
+    {
+      "rank": 845,
+      "turkish": "çöl",
+      "english": "desert"
+    },
+    {
+      "rank": 847,
+      "turkish": "akım",
+      "english": "current"
+    },
+    {
+      "rank": 848,
+      "turkish": "asansör",
+      "english": "lift"
+    },
+    {
+      "rank": 849,
+      "turkish": "gül",
+      "english": "rose"
+    },
+    {
+      "rank": 850,
+      "turkish": "varmak",
+      "english": "arrive"
+    },
+    {
+      "rank": 851,
+      "turkish": "usta",
+      "english": "master"
+    },
+    {
+      "rank": 852,
+      "turkish": "iz",
+      "english": "track"
+    },
+    {
+      "rank": 853,
+      "turkish": "ebeveyn",
+      "english": "parent"
+    },
+    {
+      "rank": 854,
+      "turkish": "kıyı",
+      "english": "shore"
+    },
+    {
+      "rank": 855,
+      "turkish": "bölünme",
+      "english": "division"
+    },
+    {
+      "rank": 856,
+      "turkish": "levha",
+      "english": "sheet"
+    },
+    {
+      "rank": 857,
+      "turkish": "madde",
+      "english": "substance"
+    },
+    {
+      "rank": 858,
+      "turkish": "iyilik",
+      "english": "favor"
+    },
+    {
+      "rank": 859,
+      "turkish": "bağlamak",
+      "english": "connect"
+    },
+    {
+      "rank": 860,
+      "turkish": "sonrası",
+      "english": "post"
+    },
+    {
+      "rank": 861,
+      "turkish": "harcamak",
+      "english": "spend"
+    },
+    {
+      "rank": 862,
+      "turkish": "akor",
+      "english": "chord"
+    },
+    {
+      "rank": 863,
+      "turkish": "şişman",
+      "english": "fat"
+    },
+    {
+      "rank": 864,
+      "turkish": "memnun",
+      "english": "glad"
+    },
+    {
+      "rank": 865,
+      "turkish": "orijinal",
+      "english": "original"
+    },
+    {
+      "rank": 866,
+      "turkish": "payı",
+      "english": "share"
+    },
+    {
+      "rank": 867,
+      "turkish": "istasyon",
+      "english": "station"
+    },
+    {
+      "rank": 868,
+      "turkish": "baba",
+      "english": "dad"
+    },
+    {
+      "rank": 869,
+      "turkish": "ekmek",
+      "english": "bread"
+    },
+    {
+      "rank": 870,
+      "turkish": "şarj",
+      "english": "charge"
+    },
+    {
+      "rank": 871,
+      "turkish": "uygun",
+      "english": "proper"
+    },
+    {
+      "rank": 872,
+      "turkish": "bar",
+      "english": "bar"
+    },
+    {
+      "rank": 873,
+      "turkish": "teklif",
+      "english": "offer"
+    },
+    {
+      "rank": 874,
+      "turkish": "segmenti",
+      "english": "segment"
+    },
+    {
+      "rank": 875,
+      "turkish": "köle",
+      "english": "slave"
+    },
+    {
+      "rank": 876,
+      "turkish": "ördek",
+      "english": "duck"
+    },
+    {
+      "rank": 877,
+      "turkish": "anlık",
+      "english": "instant"
+    },
+    {
+      "rank": 878,
+      "turkish": "pazar",
+      "english": "market"
+    },
+    {
+      "rank": 879,
+      "turkish": "derecesi",
+      "english": "degree"
+    },
+    {
+      "rank": 880,
+      "turkish": "doldurmak",
+      "english": "populate"
+    },
+    {
+      "rank": 881,
+      "turkish": "civciv",
+      "english": "chick"
+    },
+    {
+      "rank": 882,
+      "turkish": "sevgili",
+      "english": "dear"
+    },
+    {
+      "rank": 883,
+      "turkish": "düşman",
+      "english": "enemy"
+    },
+    {
+      "rank": 884,
+      "turkish": "cevap",
+      "english": "reply"
+    },
+    {
+      "rank": 885,
+      "turkish": "içki",
+      "english": "drink"
+    },
+    {
+      "rank": 886,
+      "turkish": "meydana",
+      "english": "occur"
+    },
+    {
+      "rank": 887,
+      "turkish": "destek",
+      "english": "support"
+    },
+    {
+      "rank": 888,
+      "turkish": "konuşma",
+      "english": "speech"
+    },
+    {
+      "rank": 889,
+      "turkish": "doğa",
+      "english": "nature"
+    },
+    {
+      "rank": 890,
+      "turkish": "aralığı",
+      "english": "range"
+    },
+    {
+      "rank": 891,
+      "turkish": "buhar",
+      "english": "steam"
+    },
+    {
+      "rank": 892,
+      "turkish": "hareket",
+      "english": "motion"
+    },
+    {
+      "rank": 893,
+      "turkish": "yol",
+      "english": "path"
+    },
+    {
+      "rank": 894,
+      "turkish": "sıvı",
+      "english": "liquid"
+    },
+    {
+      "rank": 896,
+      "turkish": "demek",
+      "english": "meant"
+    },
+    {
+      "rank": 897,
+      "turkish": "bölüm",
+      "english": "quotient"
+    },
+    {
+      "rank": 898,
+      "turkish": "dişler",
+      "english": "teeth"
+    },
+    {
+      "rank": 899,
+      "turkish": "kabuk",
+      "english": "shell"
+    },
+    {
+      "rank": 900,
+      "turkish": "boyun",
+      "english": "neck"
+    },
+    {
+      "rank": 901,
+      "turkish": "oksijen",
+      "english": "oxygen"
+    },
+    {
+      "rank": 902,
+      "turkish": "şeker",
+      "english": "sugar"
+    },
+    {
+      "rank": 903,
+      "turkish": "ölüm",
+      "english": "death"
+    },
+    {
+      "rank": 904,
+      "turkish": "güzel",
+      "english": "pretty"
+    },
+    {
+      "rank": 905,
+      "turkish": "beceri",
+      "english": "skill"
+    },
+    {
+      "rank": 906,
+      "turkish": "kadın",
+      "english": "women"
+    },
+    {
+      "rank": 907,
+      "turkish": "sezon",
+      "english": "season"
+    },
+    {
+      "rank": 908,
+      "turkish": "çözüm",
+      "english": "solution"
+    },
+    {
+      "rank": 909,
+      "turkish": "mıknatıs",
+      "english": "magnet"
+    },
+    {
+      "rank": 910,
+      "turkish": "gümüş",
+      "english": "silver"
+    },
+    {
+      "rank": 911,
+      "turkish": "teşekkürler",
+      "english": "thank"
+    },
+    {
+      "rank": 912,
+      "turkish": "şube",
+      "english": "branch"
+    },
+    {
+      "rank": 913,
+      "turkish": "maç",
+      "english": "match"
+    },
+    {
+      "rank": 914,
+      "turkish": "sonek",
+      "english": "suffix"
+    },
+    {
+      "rank": 915,
+      "turkish": "özellikle",
+      "english": "especially"
+    },
+    {
+      "rank": 916,
+      "turkish": "incir",
+      "english": "fig"
+    },
+    {
+      "rank": 917,
+      "turkish": "korkuyor",
+      "english": "afraid"
+    },
+    {
+      "rank": 918,
+      "turkish": "büyük",
+      "english": "huge"
+    },
+    {
+      "rank": 919,
+      "turkish": "kardeş",
+      "english": "sister"
+    },
+    {
+      "rank": 920,
+      "turkish": "çelik",
+      "english": "steel"
+    },
+    {
+      "rank": 921,
+      "turkish": "tartışmak",
+      "english": "discuss"
+    },
+    {
+      "rank": 922,
+      "turkish": "ileri",
+      "english": "forward"
+    },
+    {
+      "rank": 923,
+      "turkish": "benzer",
+      "english": "similar"
+    },
+    {
+      "rank": 924,
+      "turkish": "kılavuz",
+      "english": "guide"
+    },
+    {
+      "rank": 925,
+      "turkish": "deneyim",
+      "english": "experience"
+    },
+    {
+      "rank": 926,
+      "turkish": "puan",
+      "english": "score"
+    },
+    {
+      "rank": 927,
+      "turkish": "elma",
+      "english": "apple"
+    },
+    {
+      "rank": 929,
+      "turkish": "açtı",
+      "english": "led"
+    },
+    {
+      "rank": 930,
+      "turkish": "zift",
+      "english": "pitch"
+    },
+    {
+      "rank": 931,
+      "turkish": "ceket",
+      "english": "coat"
+    },
+    {
+      "rank": 932,
+      "turkish": "kitle",
+      "english": "mass"
+    },
+    {
+      "rank": 933,
+      "turkish": "kart",
+      "english": "card"
+    },
+    {
+      "rank": 934,
+      "turkish": "bant",
+      "english": "band"
+    },
+    {
+      "rank": 935,
+      "turkish": "halat",
+      "english": "rope"
+    },
+    {
+      "rank": 936,
+      "turkish": "kayma",
+      "english": "slip"
+    },
+    {
+      "rank": 937,
+      "turkish": "win",
+      "english": "win"
+    },
+    {
+      "rank": 938,
+      "turkish": "rüya",
+      "english": "dream"
+    },
+    {
+      "rank": 939,
+      "turkish": "akşam",
+      "english": "evening"
+    },
+    {
+      "rank": 940,
+      "turkish": "durumu",
+      "english": "condition"
+    },
+    {
+      "rank": 941,
+      "turkish": "beslemek",
+      "english": "feed"
+    },
+    {
+      "rank": 942,
+      "turkish": "aracı",
+      "english": "tool"
+    },
+    {
+      "rank": 943,
+      "turkish": "toplam",
+      "english": "total"
+    },
+    {
+      "rank": 944,
+      "turkish": "temel",
+      "english": "basic"
+    },
+    {
+      "rank": 945,
+      "turkish": "koku",
+      "english": "smell"
+    },
+    {
+      "rank": 946,
+      "turkish": "vadi",
+      "english": "valley"
+    },
+    {
+      "rank": 947,
+      "turkish": "ne",
+      "english": "nor"
+    },
+    {
+      "rank": 948,
+      "turkish": "çift",
+      "english": "double"
+    },
+    {
+      "rank": 949,
+      "turkish": "koltuk",
+      "english": "seat"
+    },
+    {
+      "rank": 950,
+      "turkish": "devam",
+      "english": "continue"
+    },
+    {
+      "rank": 951,
+      "turkish": "bloğu",
+      "english": "block"
+    },
+    {
+      "rank": 952,
+      "turkish": "grafiği",
+      "english": "chart"
+    },
+    {
+      "rank": 953,
+      "turkish": "şapka",
+      "english": "hat"
+    },
+    {
+      "rank": 954,
+      "turkish": "satmak",
+      "english": "sell"
+    },
+    {
+      "rank": 955,
+      "turkish": "başarı",
+      "english": "success"
+    },
+    {
+      "rank": 956,
+      "turkish": "şirket",
+      "english": "company"
+    },
+    {
+      "rank": 957,
+      "turkish": "çıkarmak",
+      "english": "subtract"
+    },
+    {
+      "rank": 958,
+      "turkish": "olay",
+      "english": "event"
+    },
+    {
+      "rank": 959,
+      "turkish": "özellikle",
+      "english": "particular"
+    },
+    {
+      "rank": 960,
+      "turkish": "anlaşma",
+      "english": "deal"
+    },
+    {
+      "rank": 961,
+      "turkish": "yüzmek",
+      "english": "swim"
+    },
+    {
+      "rank": 962,
+      "turkish": "vadeli",
+      "english": "term"
+    },
+    {
+      "rank": 963,
+      "turkish": "karşısında",
+      "english": "opposite"
+    },
+    {
+      "rank": 964,
+      "turkish": "karısı",
+      "english": "wife"
+    },
+    {
+      "rank": 965,
+      "turkish": "ayakkabı",
+      "english": "shoe"
+    },
+    {
+      "rank": 966,
+      "turkish": "omuz",
+      "english": "shoulder"
+    },
+    {
+      "rank": 967,
+      "turkish": "yaymak",
+      "english": "spread"
+    },
+    {
+      "rank": 968,
+      "turkish": "düzenlemek",
+      "english": "arrange"
+    },
+    {
+      "rank": 969,
+      "turkish": "kamp",
+      "english": "camp"
+    },
+    {
+      "rank": 970,
+      "turkish": "icat",
+      "english": "invent"
+    },
+    {
+      "rank": 971,
+      "turkish": "pamuk",
+      "english": "cotton"
+    },
+    {
+      "rank": 972,
+      "turkish": "doğmuş",
+      "english": "born"
+    },
+    {
+      "rank": 973,
+      "turkish": "belirlemek",
+      "english": "determine"
+    },
+    {
+      "rank": 974,
+      "turkish": "kuart",
+      "english": "quart"
+    },
+    {
+      "rank": 975,
+      "turkish": "dokuz",
+      "english": "nine"
+    },
+    {
+      "rank": 976,
+      "turkish": "kamyon",
+      "english": "truck"
+    },
+    {
+      "rank": 977,
+      "turkish": "gürültü",
+      "english": "noise"
+    },
+    {
+      "rank": 978,
+      "turkish": "seviyesi",
+      "english": "level"
+    },
+    {
+      "rank": 979,
+      "turkish": "şans",
+      "english": "chance"
+    },
+    {
+      "rank": 980,
+      "turkish": "toplamak",
+      "english": "gather"
+    },
+    {
+      "rank": 981,
+      "turkish": "dükkan",
+      "english": "shop"
+    },
+    {
+      "rank": 982,
+      "turkish": "streç",
+      "english": "stretch"
+    },
+    {
+      "rank": 983,
+      "turkish": "atmak",
+      "english": "throw"
+    },
+    {
+      "rank": 984,
+      "turkish": "parlaklık",
+      "english": "shine"
+    },
+    {
+      "rank": 985,
+      "turkish": "mülkiyet",
+      "english": "property"
+    },
+    {
+      "rank": 986,
+      "turkish": "sütun",
+      "english": "column"
+    },
+    {
+      "rank": 987,
+      "turkish": "molekülü",
+      "english": "molecule"
+    },
+    {
+      "rank": 988,
+      "turkish": "seçin",
+      "english": "select"
+    },
+    {
+      "rank": 989,
+      "turkish": "yanlış",
+      "english": "wrong"
+    },
+    {
+      "rank": 990,
+      "turkish": "gri",
+      "english": "gray"
+    },
+    {
+      "rank": 991,
+      "turkish": "tekrar",
+      "english": "repeat"
+    },
+    {
+      "rank": 992,
+      "turkish": "gerektirir",
+      "english": "require"
+    },
+    {
+      "rank": 993,
+      "turkish": "geniş",
+      "english": "broad"
+    },
+    {
+      "rank": 994,
+      "turkish": "hazırlamak",
+      "english": "prepare"
+    },
+    {
+      "rank": 995,
+      "turkish": "tuz",
+      "english": "salt"
+    },
+    {
+      "rank": 996,
+      "turkish": "burun",
+      "english": "nose"
+    },
+    {
+      "rank": 997,
+      "turkish": "çoğul",
+      "english": "plural"
+    },
+    {
+      "rank": 998,
+      "turkish": "öfke",
+      "english": "anger"
+    },
+    {
+      "rank": 999,
+      "turkish": "iddia",
+      "english": "claim"
+    },
+    {
+      "rank": 1000,
+      "turkish": "kıta",
+      "english": "continent"
+    }
+  ]
+}
