@@ -73,6 +73,7 @@ function WordsPanel() {
               key={item.rank}
               p={"3px"}
               borderRadius={"sm"}
+              borderBottom={inputWords.length === i ? "2px" : ""}
             >
               {language === "tr" ? item.turkish : item.english}
             </Box>
