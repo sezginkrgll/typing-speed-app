@@ -7,6 +7,7 @@ import WordsPanel from "./WordsPanel";
 import FormInput from "./FormInput";
 import FormSelect from "./FormSelect";
 import ResultPanel from "./ResultPanel";
+import Footer from "./Footer";
 
 function Container() {
   return (
@@ -16,6 +17,7 @@ function Container() {
       <WordsPanel />
       <FormInput />
       <ResultPanel />
+      <Footer />
     </Box>
   );
 }
